@@ -1,0 +1,30 @@
+body {
+    background-color: lightpink;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: beige text-aling: center;
+    padding: 30px;
+}
+
+
+.h1 {
+    background-color: beige;
+    text-align: center;
+}
+
+
+.p {
+    background-color: beige;
+    text-align: center;
+}
+
+#download {
+
+    margin-left: 800px;
+    border-style: double;
+}
